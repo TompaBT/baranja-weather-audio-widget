@@ -3,7 +3,7 @@
    ============================================================ */
 
 // API PODACI
-const apiKey = "50db5deb66c63d90e697c5762aedc2e5";
+const apiKey = "";
 const lat = 45.77;
 const lon = 18.60;
 
